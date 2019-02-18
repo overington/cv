@@ -1,30 +1,33 @@
 ---
-title: "DeepMind cover letter"
-author: Samuel Overington | ID 170431121
-geometry: margin=1.2cm, left=8cm
+title: "Samuel Overington"
 fontfamily: crimson
+linestretch: 1.3
+geometry: margin=1.3in
 output:
   pdf_document:
     path: "./DeepMind cover letter.pdf"
     toc: false
-  word_document:
-    path: "./DeepMind cover letter.docx"
 ---
-# SELF INTRODUCTION
+<!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
-I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.  I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience, with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software development internship, Having freelance and creative experience has given me the insight needed for leading projects and the self determination required for research based projects.
+I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.  I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience, with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
 
-# Some important things to talk about here:
+<!--
+My career goals are to be able to use the scientific method to build models.  In order for machine learning to be able work with these data, the algorithms must first be written... As part of a larger understanding of what intelligence is, and learning models.
+
+using ML libraries to enable this.  I found that through exploring the LIGO dataset, I am interested in the
+ -->
+
+<!-- # Some important things to talk about here: -->
 <!-- The “Hard Sell” Paragraph – Prove how qualified you are. Use bullet points to highlight achievements.  -->
 
-### Yobota internship:
+### 2008 Software engineering internship.
 
 During the 2018 summer break, I undertook a Python software engineering internship with Yobota; a mid-sized fintech startup in London, who have created a lean cloud based banking platform.  I was delegated to the API / integrations team and given the exploratory project of creating an internal client for payment initiations using the UK's new banking initiative the OpenBanking API.  The client that I wrote had to conform to banking industry standards, and employed technologies such as OAuth bearer tokens, a REST API for internal platform use, test driven development life cycle, continuous integration using Jenkins and written using Python / Django / DRF, with testing suite pytest.
 
 As part of team building, I gave a company presentation on my research into OpenBanking.  And for project planning, I took part in a daily morning standup, and weekly sprint planning meetings, where I set my own goals, and recounted updates on the progress of my integration.
 
-
-### Science / Maths research
+### Research projects and education.
 <!--
 Overall skill review for Uni:
   - show my maths skills
@@ -46,29 +49,25 @@ As my final project for scientific computing, I used the researched and analysed
 
 In first year, I took part in a collaborative group project using Python and MatPlotLib to investigate financial data sourced from the World Bank, collating multiple years of financial information about specific and grouped countries, then analysing and normalising for inflation the results to plot using MatPlotLib's PyPlot, the movement of variables throughout a set time period in specific and grouped countries.
 
-### Web development experience.
+### Freelance web development experience.
+
 Before commencing my undergraduate study at Queen Mary, I worked as a freelance web developer, where I used my creative background to design and build custom website themes and plugins, gaining experience in PHP, JavaScript, HTML, CSS. This lead to working as the lead developer for *Stillnessinyoga*, a dutch yoga and meditation studio, where I built their digital product which has become an industry leading online learning space to accompany their teacher trainings for students to become certified yoga and meditation teachers.
 
-I built the the online membership e-commmerce platform, along with designing the interactive digital teacher training manuals. I integrated a media streaming platform to host secure video content, integrating Amazon S3 buckets.
+I built the the online membership e-commerce platform, along with designing the interactive digital teacher training manuals. I integrated a media streaming platform to host secure video content, integrating Amazon S3 buckets.
 
  <!-- - Being part of a team building an online learning platform with e-comms, on an AWS EC2 instance.
  - WordPress plugin and theme developer - coding in PHP for front end as well as server side tasks. -->
 
 
 
-### My interest in DeepMind;
+<!-- ### My interest in DeepMind; -->
 <!-- The “Research” Paragraph – Learn about your target company, & explain how you fit into their future. -->
 <!-- I am interested in creating models that will help the betterment of scientific research. while pushing scientific boundaries
 -->
-I believe that machine learning is, and will continue to be an important aide for scientists, enabling them to look deeper into data heavy research, machine learning to recognise patterns and behaviours that might otherwise go unnoticed.  My career goals are to be able to use the scientific method to build models.  In order for machine learning to be able work with these data, the algorithms must first be written... As part of a larger understanding of what intelligence is, and learning models.
 
-using ML libraries to enable this.  I found that through exploring the LIGO dataset, I am interested in the
+Machine learning is, and will continue to be an important aide for scientists and researchers, enabling us to look deeper into data heavy problems.  My software engineering, freelance, and creative experiences, and training in art and science has given me an unique edge in solving problems needed to work in machine learning and AI. I believe that I would bring out-of-the-box insights, making me an ideal candidate for a team undertaking research in robotics and AI
 
 
-### Sign off
+improve our ability to analyse data by recognising patterns and behaviours that might otherwise go unnoticed.  I would love to be part of the team working towards these goals,
 
-I believe ...
-
-<!-- that with my background in creativity, analytical thinking, coding, both in PHP web development, system administration, and now data analysis with python, -->
-
-I would be an ideal candidate for undertaking this internship, and that I would be able to add much in collaborating with a team of like minded individuals.
+ where I can combine my diverse history in creativity, software engineering, and scientific research giving me
