@@ -10,7 +10,7 @@ output:
 ---
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
-I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.  I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience, with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
+I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.  I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
 
 <!--
 My career goals are to be able to use the scientific method to build models.  In order for machine learning to be able work with these data, the algorithms must first be written... As part of a larger understanding of what intelligence is, and learning models.
@@ -45,7 +45,9 @@ Throughout my degree, I have been learning techniques in mathematics, programmin
 
 During the the module _Introduction to Scientific Computing_, we were taught how to model many different mathematical functions and analyse datasets; extracting relevant physical information from them.  Of note, we learned about linear regression algorithms and curve fitting and image manipulation and cleaning using discrete Fourier transform; which drew upon my mathematical knowledge of linear algebra, and calculus.
 
-As my final project for scientific computing, I used the researched and analysed gravitational waves, using the public data-set from the LIGO interferometers.  Using Fourier transform to clean the signals, and a linear regression to fit. (talk more - calculus,  differential equations).
+As my final project for scientific computing, I used the researched and analysed gravitational waves, using the public data-set from the LIGO interferometers.  Using Fourier transform to clean the signals, and a linear regression to fit.
+
+<!-- (talk more - calculus,  differential equations). -->
 
 In first year, I took part in a collaborative group project using Python and MatPlotLib to investigate financial data sourced from the World Bank, collating multiple years of financial information about specific and grouped countries, then analysing and normalising for inflation the results to plot using MatPlotLib's PyPlot, the movement of variables throughout a set time period in specific and grouped countries.
 
@@ -64,10 +66,11 @@ I built the the online membership e-commerce platform, along with designing the 
 <!-- The “Research” Paragraph – Learn about your target company, & explain how you fit into their future. -->
 <!-- I am interested in creating models that will help the betterment of scientific research. while pushing scientific boundaries
 -->
+### Personal objective.
 
-Machine learning is, and will continue to be an important aide for scientists and researchers, enabling us to look deeper into data heavy problems.  My software engineering, freelance, and creative experiences, and training in art and science has given me an unique edge in solving problems needed to work in machine learning and AI. I believe that I would bring out-of-the-box insights, making me an ideal candidate for a team undertaking research in robotics and AI
+Machine learning is, and will continue to be an important aide for scientists and researchers, enabling us to look deeper into data heavy problems.  My software engineering, freelance, and creative experiences, and training in art and science has given me an unique edge in solving problems needed to work in machine learning and AI. I believe that I would bring out-of-the-box insights, making me an ideal candidate for a team undertaking research in machine learning, deep learning and AI.
 
 
-improve our ability to analyse data by recognising patterns and behaviours that might otherwise go unnoticed.  I would love to be part of the team working towards these goals,
+<!-- improve our ability to analyse data by recognising patterns and behaviours that might otherwise go unnoticed.  I would love to be part of the team working towards these goals,
 
- where I can combine my diverse history in creativity, software engineering, and scientific research giving me
+ where I can combine my diverse history in creativity, software engineering, and scientific research giving me -->
