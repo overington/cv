@@ -9,6 +9,7 @@ output:
     toc: false
 ---
 
+I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.
 @import "base.md"
 
 

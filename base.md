@@ -43,7 +43,7 @@ Throughout my degree, I have been learning techniques in mathematics, programmin
 
 <!-- I have gotten the most satisfaction from the following ... intellectually stimulating -->
 
-During the the module _Introduction to Scientific Computing_, we were taught how to model many different mathematical functions and analyse datasets; extracting relevant physical information from them.  Of note, we learned about linear regression algorithms and curve fitting and image manipulation and cleaning using discrete Fourier transform; which drew upon my mathematical knowledge of linear algebra, and calculus.
+During the module _Introduction to Scientific Computing_, we were taught how to model many mathematical functions and analyse datasets; extracting relevant physical information from them.  Of note, we learned about linear regression algorithms and curve fitting and image manipulation and cleaning using discrete Fourier transform; which drew upon my mathematical knowledge of linear algebra, and calculus.
 
 As my final project for scientific computing, I used the researched and analysed gravitational waves, using the public data-set from the LIGO interferometers.  Using Fourier transform to clean the signals, and a linear regression to fit.
 
@@ -55,7 +55,7 @@ In first year, I took part in a collaborative group project using Python and Mat
 
 Before commencing my undergraduate study at Queen Mary, I worked as a freelance web developer, where I used my creative background to design and build custom website themes and plugins, gaining experience in PHP, JavaScript, HTML, CSS. This lead to working as the lead developer for *Stillnessinyoga*, a dutch yoga and meditation studio, where I built their digital product which has become an industry leading online learning space to accompany their teacher trainings for students to become certified yoga and meditation teachers.
 
-I built the the online membership e-commerce platform, along with designing the interactive digital teacher training manuals. I integrated a media streaming platform to host secure video content, integrating Amazon S3 buckets.
+I built the online membership e-commerce platform, along with designing the interactive digital teacher training manuals. I integrated a media streaming platform to host secure video content, integrating Amazon S3 buckets.
 
  <!-- - Being part of a team building an online learning platform with e-comms, on an AWS EC2 instance.
  - WordPress plugin and theme developer - coding in PHP for front end as well as server side tasks. -->
@@ -68,7 +68,7 @@ I built the the online membership e-commerce platform, along with designing the 
 -->
 ### Personal objective.
 
-Machine learning is, and will continue to be an important aide for scientists and researchers, enabling us to look deeper into data heavy problems.  My software engineering, freelance, and creative experiences, and training in art and science has given me an unique edge in solving problems needed to work in machine learning and AI. I believe that I would bring out-of-the-box insights, making me an ideal candidate for a team undertaking research in machine learning, deep learning and AI.
+Machine learning is, and will continue to be an important aide for scientists and researchers, enabling us to look deeper into data heavy problems.  My software engineering, freelance, and creative experiences, and training in art and science has given me a unique edge in solving problems needed to work in machine learning and AI. I believe that I would bring out-of-the-box insights, making me an ideal candidate for a team undertaking research in machine learning, deep learning and AI.
 
 
 <!-- improve our ability to analyse data by recognising patterns and behaviours that might otherwise go unnoticed.  I would love to be part of the team working towards these goals,
