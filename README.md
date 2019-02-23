@@ -4,17 +4,10 @@
 ------------------------------------------------------------------------
 
   -- ---------------------------
-     s.c.overington\@gmail.com
+     s.c.overington@gmail.com
      samueloverington.com
      github.com/oh-
   -- ---------------------------
-
-### Objective
-
-Looking for an internship in software engineering and machine learning,
-where I will be able to use my creative background along with my
-analytical skills to develop and enhance software projects in a modern
-and innovative environment.
 
 I am a second year undergraduate student in Theoretical Physics at Queen
 Mary, University of London, with a passion for creativity, science and
@@ -25,7 +18,14 @@ motion and dance. I have also been a freelance web developer, leading
 creative front-end web development projects, graphic design, and most
 recently a software engineering intern.
 
-### 2008 Software engineering internship. {#software-engineering-internship}
+### Objective
+
+Looking for an internship in software engineering and machine learning,
+where I will be able to use my creative background along with my
+analytical skills to develop and enhance software projects in a modern
+and innovative environment.
+
+### 2008 Software engineering internship.
 
 During the 2018 summer break, I undertook a Python software engineering
 internship with Yobota; a mid-sized fintech startup in London, who have
@@ -43,7 +43,7 @@ into OpenBanking. And for project planning, I took part in a daily
 morning standup, and weekly sprint planning meetings, where I set my own
 goals, and recounted updates on the progress of my integration.
 
-### Research projects and education. {#research-projects-and-education}
+### Research projects and education.
 
 Throughout my degree, I have been learning techniques in mathematics,
 programming, and physical laws to interrogate, model and analyse data
@@ -68,7 +68,7 @@ and grouped countries, then analysing and normalising for inflation the
 results to plot using MatPlotLib's PyPlot, the movement of variables
 throughout a set time period in specific and grouped countries.
 
-### Freelance web development experience. {#freelance-web-development-experience}
+### Freelance web development experience.
 
 Before commencing my undergraduate study at Queen Mary, I worked as a
 freelance web developer, where I used my creative background to design
