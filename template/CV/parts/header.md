@@ -1,12 +1,19 @@
+\setmainfont[
+Path = /Users/samuel/Library/fonts/,
+BoldFont = FiraSans-Bold.ttf,
+ItalicFont = FiraSans-Italic.ttf,
+BoldItalicFont  = FiraSans-BoldItalic.ttf]
+{FiraSans-Regular.ttf}
+
 \begin{minipage}[t]{0.7\textwidth}
   \Huge \textit{Samuel Overington}
 \end{minipage}
 \begin{minipage}[b]{0.3\textwidth}
   \begin{flushright}
     \begin{tabular}{rl}
-      \faicon{mail-reply} & s.c.overington@gmail.com \\
-      \faicon{flash} & samueloverington.com \\
-      \faicon{github} & github.com/oh- \\
+      $\rhd$ & s.c.overington@gmail.com \\
+      $\rhd$ & samueloverington.com \\
+      $\rhd$ & github.com/oh- \\
       \\
     \end{tabular}
   \end{flushright}
