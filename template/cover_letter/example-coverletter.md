@@ -14,12 +14,12 @@ header-includes:
 
 ---
 \qquad
-**FIVE AI**
+**Apple**
 \begin{flushleft}
 \tt
-London \\
-19 Hatfields, \\
-London, SE1 8DJ \\
+1 Infinite Loop,\\
+Cupertino,\\
+CA 95014, US\\
 \quad \\
 \end{flushleft}
 
@@ -29,4 +29,4 @@ I am a second year undergraduate student in Theoretical Physics at Queen Mary, U
 
 @import "parts/base.md"
 
-@import "parts/foot_arm.md"
+@import "parts/foot_ml.md"
