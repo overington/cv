@@ -22,3 +22,6 @@ header-includes:
 @import "parts/teaching.md"
 
 @import "parts/education.md"
+
+<!-- Academic references -->
+@import "parts/references.md"

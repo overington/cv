@@ -1,10 +1,10 @@
 # Education
 
 2017 -- 2021: **Msci Theoretical Physics**\
-*Queen Mary University of London*
+*Queen Mary University of London*, London, UK
 
 2016 -- 2017: **Access to Science Dimploma**\
-*Tower Hamlets College*
+*Tower Hamlets College*, London, UK
 
 2003 -- 2007: **Bachelor of Fine Arts (Photography)**\
 *Victorian College of the Arts*, Melbourne, Australia
