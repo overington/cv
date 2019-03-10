@@ -4,17 +4,17 @@
 *Software Development Summer Intern -- Integrations / APIs*
 
 -   Lead Python developer for OpenBanking integration, using Django / DRF
--   Participated in daily stand-up and weekly sprint planning meetings.
+-   Participated in daily stand-up and weekly sprint planning meetings
 -   Delivered team keynote on OpenBanking
 -   Create written documentation on "Creating a test driven integration" to work on the Yobota platform
 
 **Stillnessinyoga**, Remote, The Netherlands, June 2016 -- 2018\
 *Front-end web development / Digital content development*
 
--   Lead developer for multi-lingual WordPress site.
--   Built site using the Genesis theme framework featuring an events calendar, ecommerce platform, content restricted membership subscriptions and membership forum.
--   developed a custom secure Amazon S3 media serving platform.
--   Worked along side head teachers to design and put together three teacher training manuals (Level 1, 2, & Advanced 2) -- in iBook format -- an interactive e-publishing book format.
+-   Lead developer for multi-lingual e-comms WordPress site
+-   Built site using the Genesis theme framework featuring an events calendar, ecommerce platform, content restricted membership subscriptions and membership forum
+-   developed a custom secure Amazon S3 media serving platform
+-   Worked along side head teachers to design and put together three teacher training manuals (Level 1, 2, & Advanced 2) -- in iBook format -- an interactive e-publishing book format
 
 ## *(freelance)*
 

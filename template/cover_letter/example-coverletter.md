@@ -14,12 +14,11 @@ header-includes:
 
 ---
 \qquad
-**Apple**
+**Microsoft Cambridge, UK Research Facility**
 \begin{flushleft}
 \tt
-1 Infinite Loop,\\
-Cupertino,\\
-CA 95014, US\\
+21 Station Road\\
+Cambridge CB1 2FB\\
 \quad \\
 \end{flushleft}
 
