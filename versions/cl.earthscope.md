@@ -1,7 +1,7 @@
 ---
 fontfamily: crimson
 fontsize: 12pt
-linestretch: 1.1
+linestretch: 1.05
 geometry: left=2cm, top=1.5cm, right=2cm
 output:
   pdf_document:
@@ -27,7 +27,7 @@ Millpond Estate,\\
 
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
-I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
+I am a second year undergraduate student in Theoretical Physics at Queen Mary University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
 
 @import "../template/cover_letter/parts/base_internship_2018.md"
 
@@ -39,7 +39,7 @@ I am a second year undergraduate student in Theoretical Physics at Queen Mary, U
 
 <!-- AIM: Briefly describe project.  -->
 <!-- AIM: Describe my interest, showing my understanding -->
-I am interested in the area of machine learning and AI, and I think it will revolutionise how we process todays data-heavy research. I have been keeping up to date with projects and startups using deep learning and neural networks like DeepMind's AlphaGo. And in my spare time I am investigating how it uses ML in personal projects; one currently that I am working on uses scikit-learn to predict housing prices based on location, and other relevant data-points.
+I am interested in the area of machine learning and AI, and I think its applications will revolutionise how we process todays data-heavy research. I have been keeping up to date with projects and startups using deep learning and neural networks like DeepMind's AlphaGo. And in my spare time I am investigating use cases for ML in personal projects; one currently that I am working on uses scikit-learn to predict housing prices based on location, and other relevant data-points.
 
 <!-- AIM: what do I think they do, and how my interest/project might fit in... what I can bring -->
 <!--  
@@ -47,7 +47,7 @@ Interest in AI
 Interest in image recognition
 describe what I think that the company is doing
 -->
-I can envisage how Earthscope is might be train an image processing neural network on satellite images to recognise relevant data, including but not limited to food production, eg specific image colour changes could tell what kind of crop is grown, how much land / crop production.  This information would then be piped to various analysis algorithms, and when combined with historical pricing, or timing or crop yields could be used to predict highly accurate production values. I believe that the area of food production predictors would be just the beginning, and the techniques extensible into many different industries.
+I can envisage how Earthscope might be using ML and AI techniques such as computer vision and neural networks to recognise and label relevant data in images, and using that information to predict food production, sourcing and labelling satellite imagery of mapped farming areas over regular periods of time, predicting which crops and varietals are being grown based on image pixel colour and seasonal changes, then predicting how much crop production based on land size.  This information could then be piped to analysis algorithms, and when combined with historical pricing, or timing or crop yields could be used to predict valuable information like highly accurate production volumes, and the techniques extensible into many different industries.
 
 <!-- Computer Vision:
 , to for uncovering the global production of food and linking those insights to supply chains.
