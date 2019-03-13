@@ -4,9 +4,9 @@
 \begin{minipage}[b]{0.3\textwidth}
   \begin{flushright}
     \begin{tabular}{rl}
-      \faicon{mail-reply} & s.c.overington@gmail.com \\
-      \faicon{flash} & samueloverington.com \\
-      \faicon{github} & github.com/oh- \\
+      \scriptsize{\faicon{mail-reply}} & s.c.overington@gmail.com \\
+      \scriptsize{\faicon{flash}} & samueloverington.com \\
+      \scriptsize{\faicon{github}} & github.com/oh- \\
       \\
     \end{tabular}
   \end{flushright}
