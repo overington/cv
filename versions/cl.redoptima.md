@@ -7,7 +7,7 @@ output:
   pdf_document:
     includes:
       before_body: ../template/cover_letter/parts/header_above.md
-    path: "../output/BlueOptima/cover_letter.samueloverington.pdf"
+    path: "../output/RedOptima/cover_letter.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
@@ -18,16 +18,14 @@ header-includes:
 Dalston Square, E8 3FT
 \end{flushright}
 \begin{flushleft}
-\bf Thomas Hunter\\
-\tt BlueOptima Ltd\\
-39 Webber St,\\
-2 South Bank, London, SE1 8QW\\
+\tt RedOptima\\
+London\\
 \quad \\
 \end{flushleft}
 
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
-Dear Mr Hunter,
+Dear Dr Seeburn,
 
 
 I am a second year undergraduate student in Theoretical Physics at Queen Mary University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
