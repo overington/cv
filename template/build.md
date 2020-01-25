@@ -23,7 +23,7 @@ I am a second year undergraduate student in Theoretical Physics at Queen Mary, U
 
 <!--  CV -->
 @import "CV/parts/skills.md"
-@import "CV/parts/webdev.md"
+@import "CV/parts/dev.md"
 @import "CV/parts/teaching.md"
 @import "CV/parts/education.md"
 @import "CV/parts/references.md"

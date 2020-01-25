@@ -1,4 +1,4 @@
-# Web Development
+# Software Development
 
 **Yobota**, London, Jun -- Sep 2018. (Internship)\
 *Software Development Summer Intern -- Integrations / APIs*
