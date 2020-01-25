@@ -1,5 +1,16 @@
 # Software Development
 
+**Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. (Internship)\
+*Machine Learning / Deep learning / Computer Vision*
+
+- Built object detection model to detect and differentiate biodiversity types using using earth observation imagery (TensorFlow and Keras).
+- Researched methods of transfer learning in neural networks, and implemented it in a project constrained by limited labelled dataset.
+- Created internal written documentation for Computer Vision Annotation Tool CVAT.
+- Collaborated on a poster researching object detection using machine learning, neural networks and transfer learning.
+
+Researched and implemented transfer Learning to improve training time.
+Collaborated and created a poster explaining research into Object detection using machine learning and neural networks.
+
 **Yobota**, London, Jun -- Sep 2018. (Internship)\
 *Software Development Summer Intern -- Integrations / APIs*
 

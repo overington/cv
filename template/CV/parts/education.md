@@ -1,6 +1,6 @@
 # Education
 
-2017 -- 2020: **Bsc Theoretical Physics**\
+2017 -- 2020: **Bsc Physics**\
 *Queen Mary University of London*, London, UK
 
 2016 -- 2017: **Access to Science Dimploma**\
