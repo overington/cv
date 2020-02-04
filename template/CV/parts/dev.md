@@ -3,8 +3,8 @@
 **Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. (Internship)\
 *Machine Learning / Deep learning / Computer Vision*
 
-- Built object detection model for earth observation data, to detect and differentiate biodiversity types (Python, TensorFlow and Keras).
-- Researched methods of transfer learning in neural networks, and implemented one in a project constrained by a limited labelled dataset, improving training time.
+- Built object detection model for earth observation data, to detect and differentiate between biodiversity types (Python, TensorFlow and Keras).
+- Researched methods of transfer learning in neural networks, and implemented one in a project constrained by a limited labelled dataset; improving training time.
 - Created internal reference documentation for CVAT (Computer Vision Annotation Tool).
 - Collaborated on a poster researching computer vision methods using machine learning, neural networks and transfer learning.
 

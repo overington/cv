@@ -11,8 +11,8 @@ output:
     toc: false
 header-includes:
   - \usepackage{fontawesome}
+...
 
----
 @import "parts/objective.md"
 
 @import "parts/skills.md"
