@@ -20,7 +20,7 @@ header-includes:
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
 I am writing to express my interest in the *Researching Engineering Internship* programme you will be running at DeepMind this summer.  I am a second year undergraduate student in Theoretical Physics at Queen Mary, University of London, with a passion for creativity, science and software engineering.  I have a diverse history of experience with a background in art, where I have been an exhibiting artist working collaboratively with dancers exploring the relationship between drawing, motion and dance.  I have also been a freelance web developer, leading creative front-end web development projects, graphic design, and most recently a software engineering intern.
 
-### 2008 Software engineering internship.
+### 2018 Software engineering internship.
 <!-- The “Hard Sell” Paragraph – Prove how qualified you are. Use bullet points to highlight achievements.  -->
 
 During the 2018 summer break, I undertook a Python software engineering internship with Yobota; a mid-sized fintech startup in London, who have created a lean cloud based banking platform.  I was delegated to the API / integrations team and given the exploratory project of creating an internal client for payment initiations using the UK's new banking initiative the OpenBanking API.  The client that I wrote had to conform to banking industry standards, and employed technologies such as OAuth bearer tokens, a REST API for internal platform use, test driven development life cycle, continuous integration using Jenkins and written using Python / Django / DRF, with testing suite pytest.
