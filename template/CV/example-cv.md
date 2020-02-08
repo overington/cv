@@ -18,9 +18,9 @@ header-includes:
 @import "parts/skills.md"
 
 @import "parts/dev.md"
-
+<!--
 @import "parts/teaching.md"
-
+ -->
 @import "parts/education.md"
 <!-- Academic references -->
 @import "parts/references.md"

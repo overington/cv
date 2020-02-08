@@ -16,13 +16,13 @@ background in art, where I have been an exhibiting artist working
 collaboratively with dancers exploring the relationship between drawing,
 motion and dance. I have also been a freelance software developer,
 leading creative front-end web development projects, graphic design. I
-have recently undertaken two interships: \* A space engineering company,
-as part of the earth observation team, where I used python, keras and
-TensorFlow to create an object detection model, and researching other
-machine learning and computer vision techniques. \* A software
-engineering intern for a fintech startup, and where I used Django to
-create an OpenBanking service client, and learned about how to build a
-django web app.
+have recently undertaken two internships: \* A space engineering
+company, as part of the earth observation team, where I used python,
+keras and TensorFlow to create an object detection model, and
+researching other machine learning and computer vision techniques. \* A
+software engineering intern for a fintech startup, and where I used
+Django to create an OpenBanking service client, and learned about how to
+build a django web app.
 
 I am searching for an opportunity to develop my skills in machine
 learning and software development, where I would be part of a team
@@ -30,6 +30,44 @@ involved in projects using and exploring such areas in ML as computer
 vision and transfer learning. I would like be able to use my creative
 background along with my analytical skills to develop and enhance
 software projects in a modern and innovative environment.
+
+### 2019 Machine Learning and Computer Vision internship
+
+In the 2019 Summer break, I joined the Earth Observation team at Deimos
+Space UK, a satellite and space engineering company in Harwell,
+Oxfordshire.
+
+The team use machine learning to create object detection models from
+satellite imagery, which are pipelined to produce rich information for
+industry partners.
+
+I lead an investigative project using python, TensorFlow and Keras, to
+produce an object detection model differentiating between various types
+of vegetation, creating a heat-map like image, which could be used to
+(**give back farmers useful information**)
+
+I used python to automate and batch process labelled images, creating a
+pipeline to train the model on a given set of images; which would be
+used by the industry partner to upload the images, and
+
+with the aim that it would feed this information back into the
+application pipeline to serve back to industry partner, who would use
+and learning about the UK space industry, and how machine learning and
+computer vision is being used to produce useful information from
+satellite imagery.
+
+I took part in several projects:
+
+-   Built object detection model for earth observation data, to detect
+    and differentiate between biodiversity types (Python, TensorFlow and
+    Keras).
+-   Researched methods of transfer learning in neural networks, and
+    implemented one in a project constrained by a limited labelled
+    dataset; improving training time.
+-   Created internal reference documentation for CVAT (Computer Vision
+    Annotation Tool).
+-   Collaborated on a poster researching computer vision methods using
+    machine learning, neural networks and transfer learning.
 
 ### 2018 Software engineering internship. {#software-engineering-internship}
 
