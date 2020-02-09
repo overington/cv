@@ -4,6 +4,8 @@ fontsize: 12pt
 linestretch: 1.05
 geometry: left=2cm, top=1.5cm, right=2cm
 output:
+  word_document:
+    path: "/output/arm_cover_letter.samueloverington.docx"
   pdf_document:
     includes:
       before_body: ../template/cover_letter/parts/header_above.md
