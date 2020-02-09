@@ -1,4 +1,4 @@
-### 2019 Machine Learning and Computer Vision internship
+### 2019 Internship: Machine Learning and Computer Vision.
 <!-- The “Hard Sell” Paragraph – Prove how qualified you are. Use bullet points to highlight achievements.  -->
 In the 2019 Summer break, I joined the Earth Observation team at Deimos Space UK, a satellite and space engineering company in Harwell, Oxfordshire.
 

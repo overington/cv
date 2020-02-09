@@ -1,3 +1,5 @@
+[] `/Users/samuel/Documents/devices/CV/versions_2020/cl.arm.md`
+
 # CV:
 - [x] draft CV
 - [ ] objective: iterate what I am looking for.
