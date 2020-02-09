@@ -1,11 +1,14 @@
 ### 2019 SEPNet Internship: Machine Learning and Computer Vision.
 <!-- The “Hard Sell” Paragraph – Prove how qualified you are. Use bullet points to highlight achievements.  -->
-In the 2019 Summer break, I took part in the South-Eastern Physics Network (SEPNet) internship programme, joining the Earth Observation team at Deimos Space UK; a satellite and space engineering company in the science campus in Harwell, Oxfordshire. There, the team use high resolution satellite imagery and machine learning object detection models to extract resources and information pipelined to products and industry partners.
+In the 2019 Summer break, I took part in the South-Eastern Physics Network (SEPNet) internship programme, joining the Earth Observation team at Deimos Space UK; a satellite and space engineering company at the Harwell Science and Technology Campus in Oxfordshire. There, the team use machine learning on high resolution satellite imagery to produce object detection models that extract resources and information which is pipelined to products and industry partners.
 <!--
 and learning about the UK space industry, and how machine learning and computer vision is being used to produce useful information from satellite imagery.  
  -->
 <!-- The application that I wrote -->
-I lead an investigative project using Python, TensorFlow and Keras to produce object detection models differentiating various types of vegetation and biodiversity and creating a heat-map like output image which could be used to for their farming industry partners.  I created a pipeline to train a deep neural network that would be fed from the industry partners labelled inputs, and would return the trained model for use later on in the application.  I created the pipeline using python, and libraries Keras, TensorFlow, PIL, pandas, and numpy to batch process the labelled inputs, and then trained the model on them using a dedicated high power GPU server.
+I lead an investigative project to produce object detection models that could differentiate between various types of vegetation and biodiversity; each model producing a heat-map, hi-lighting regions of high detection density of a particular biodiversity class. It would be used by their farming industry partners, with the aim to reduce chemical usage by informing them of optimal areas to target the resources.
+
+<!-- For the pipeline that I created,  -->
+I used python and libraries Keras, TensorFlow, PIL, pandas, and numpy to batch process the labelled images, and then trained the model on them using a dedicated high power GPU server. The trained model could then used to classify a stream of images on the fly, or saved for later use further down in the partner pipeline.
 
 Within the project remit, it was specified that there would be a limited availability of labelled source imagery; so I researched and implemented methods of transfer learning; increasing the feature extraction accuracy and and decreased training time (when comparing to the same dataset without using transfer learning).
 

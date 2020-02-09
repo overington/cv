@@ -6,9 +6,11 @@ geometry: left=2.5cm, top=1.5cm, right=2.5cm
 output:
   pdf_document:
     includes:
-      before_body: template/CV/parts/header.md
+      before_body: ../template/CV/parts/header.md
     path: "/output/cv.samueloverington.pdf"
     toc: false
+  word_document:
+    path: "/output/arm_CV.samueloverington.docx"
 header-includes:
   - \usepackage{fontawesome}
 ---
