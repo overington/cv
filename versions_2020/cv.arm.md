@@ -4,6 +4,8 @@ fontsize: 12pt
 linestretch: 1.25
 geometry: left=2.5cm, top=1.5cm, right=2.5cm
 output:
+  word_document:
+    path: "/output/arm_CV.samueloverington.docx"
   pdf_document:
     includes:
       before_body: template/CV/parts/header.md
