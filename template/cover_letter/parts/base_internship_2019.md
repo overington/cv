@@ -5,12 +5,12 @@ In the 2019 Summer break, I took part in the South-Eastern Physics Network (SEPN
 and learning about the UK space industry, and how machine learning and computer vision is being used to produce useful information from satellite imagery.  
  -->
 <!-- The application that I wrote -->
-I lead an investigative project to produce object detection models that could differentiate between various types of vegetation and biodiversity; each model producing a heat-map, hi-lighting regions of high detection density of a particular biodiversity class. It would be used by their farming industry partners, with the aim to reduce chemical usage by informing them of optimal areas to target the resources.
+There, I lead an investigative project to produce object detection models that could differentiate between various types of vegetation and biodiversity; each model producing a heat-map, hi-lighting regions of high detection density of a particular biodiversity class. It would be used by their farming industry partners, with the aim to reduce chemical usage by informing them of optimal areas to target the resources.
 
 <!-- For the pipeline that I created,  -->
-I used python and libraries Keras, TensorFlow, PIL, pandas, and numpy to batch process the labelled images, and then trained the model on them using a dedicated high power GPU server. The trained model could then used to classify a stream of images on the fly, or saved for later use further down in the partner pipeline.
+I used python and libraries Keras, TensorFlow, PIL, pandas, and numpy to batch process the labelled images, and then trained the model on them using a dedicated high power GPU server. The trained model could then be used to classify a stream of images on the fly, or be saved for later use further down in the partner pipeline.
 
-Within the project remit, it was specified that there would be a limited availability of labelled source imagery; so I researched and implemented methods of transfer learning; increasing the feature extraction accuracy and and decreased training time (when comparing to the same dataset without using transfer learning).
+Within the project remit, it was specified that there would be a limited availability of labelled source imagery; so I researched circumvented the issue by implementing methods of transfer learning; increasing the feature extraction accuracy and and decreased training time (when comparing to the same dataset without using transfer learning).
 
 <!--
 in order to train the models on a smaller dataset, while continuing to have
