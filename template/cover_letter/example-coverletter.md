@@ -24,9 +24,9 @@ London\\
 
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
-I am a graduating physics student in my third and final year at Queen Mary University of London. My major focus has been in theoretical and mathematical modules, and my final dissertation subject has been exploring new and novel methods of calculating scattering amplitudes.  I am currently pursuing a masters course (Msc Artificial Intelligence / Msc Machine Learning) to commence in September 2020, as this is the area in which I am pursuing in my career.
+I am a graduating physics student in my third and final year at Queen Mary University of London. My major focus has been on theoretical and mathematical modules, and my final dissertation subject is on exploring new and novel methods of calculating scattering amplitudes.  I am currently applying for a Masters Course (MSc Artificial Intelligence / MSc Machine Learning) to commence in September 2020, as this is the area in which I would like to specialise for my career.
 
-I have a diverse history of experience with a background in art where I have been part of many creative collaborations, exhibitions and projects. I have been a freelance web developer; leading creative front-end and graphic design projects. Most recently, over the past two summer breaks of my physics undergrad, I have undertaken two internships: one in software development for a fin-tech startup, and the other, as part of the SEPNet program, in machine learning and artificial intelligence at a space engineering company.
+I have a diverse history of experience with a background in art where I have been part of many creative collaborations, exhibitions and projects. I have been a freelance web developer; leading creative front-end and graphic design projects. Most recently, over the past two summer breaks of my physics undergrad, I have been selected for two internships: one in software development for a fin-tech startup, and the other, as part of the SEPNet program, in machine learning and artificial intelligence at a space engineering company.
 
 @import "parts/base.md"
 
