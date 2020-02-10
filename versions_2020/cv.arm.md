@@ -9,8 +9,6 @@ output:
       before_body: ../template/CV/parts/header.md
     path: "/output/cv.samueloverington.pdf"
     toc: false
-  word_document:
-    path: "/output/arm_CV.samueloverington.docx"
 header-includes:
   - \usepackage{fontawesome}
 ---
