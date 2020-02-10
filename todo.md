@@ -1,3 +1,4 @@
+[] notes from coverletter PDF `/Users/samuel/Documents/devices/CV/output/arm_cover_letter.samueloverington.pdf`
 [] `/Users/samuel/Documents/devices/CV/versions_2020/cl.arm.md`
 
 # CV:
