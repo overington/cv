@@ -13,19 +13,6 @@ header-includes:
   - \usepackage{fontawesome}
 
 ---
-<!--
-\begin{flushright}
-\tt Flat 24, Ocean House\\
-Dalston Square, E8 3FT
-\end{flushright}
-\begin{flushleft}
-\bf Twitter UK\\
-\tt 20 Air St,\\
-London, W1B 5AG
-\end{flushleft}
- -->
-\
-<!-- ## re: Machine Learning Engineer - Cortex -->
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
 I am a graduating physics student in my third and final year at Queen Mary University of London. My major focus has been on theoretical and mathematical modules, and my final dissertation subject is on exploring new and novel methods of calculating scattering amplitudes.  
@@ -35,4 +22,4 @@ I have a diverse history of experience with a background in art where I have bee
 
 @import "/template/cover_letter/parts/base.md"
 
-@import "/template/cover_letter/parts/foot_ml.md"
+@import "/template/cover_letter/parts/foot_gen.md"

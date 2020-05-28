@@ -7,7 +7,7 @@ output:
   pdf_document:
     includes:
       before_body: ../template/cover_letter/parts/header_above.md
-    path: "/output/gcl.samueloverington.pdf"
+    path: "/output/scl.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
@@ -19,9 +19,9 @@ header-includes:
 Dalston Square, E8 3FT
 \end{flushright}
 \begin{flushleft}
-\bf Twitter UK\\
-\tt 20 Air St,\\
-London, W1B 5AG
+\bf Seldon\\
+\tt 41 Luke Street,\\
+London, United Kingdom
 \end{flushleft}
  -->
 \

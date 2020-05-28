@@ -7,7 +7,7 @@ output:
   pdf_document:
     includes:
       before_body: ../template/cover_letter/parts/header_above.md
-    path: "/output/gcl.samueloverington.pdf"
+    path: "/output/toshiba/cl.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
@@ -18,14 +18,14 @@ header-includes:
 \tt Flat 24, Ocean House\\
 Dalston Square, E8 3FT
 \end{flushright}
-\begin{flushleft}
-\bf Twitter UK\\
-\tt 20 Air St,\\
-London, W1B 5AG
-\end{flushleft}
  -->
-\
-<!-- ## re: Machine Learning Engineer - Cortex -->
+\begin{flushleft}
+\bf Stephan Liwicki\\
+\tt Toshiba Research Europe Ltd,\\
+Cambridge, UK.
+\end{flushleft}
+
+## re: Researcher (Computer Vision / Machine Learning)
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->
 I am a graduating physics student in my third and final year at Queen Mary University of London. My major focus has been on theoretical and mathematical modules, and my final dissertation subject is on exploring new and novel methods of calculating scattering amplitudes.  
