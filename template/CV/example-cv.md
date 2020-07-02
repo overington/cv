@@ -1,5 +1,4 @@
 ---
-fontfamily: crimson
 fontsize: 12pt
 linestretch: 1.25
 geometry: left=2.5cm, top=1.5cm, right=2.5cm
@@ -11,6 +10,9 @@ output:
     toc: false
 header-includes:
   - \usepackage{fontawesome}
+  - \usepackage{CormorantGaramond}  
+  - \usepackage[T1]{fontenc}
+  
 ---
 
 @import "/template/CV/parts/objective.md"

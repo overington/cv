@@ -1,5 +1,4 @@
 ---
-fontfamily: crimson
 fontsize: 12pt
 linestretch: 1.13
 geometry: left=2.2cm, top=1.5cm, right=2.2cm
@@ -11,15 +10,17 @@ output:
     toc: false
 header-includes:
   - \usepackage{fontawesome}
+  - \usepackage{CormorantGaramond}  
+  - \usepackage[T1]{fontenc}
 
 ---
-\qquad
+<!-- \qquad
 **So Cool**
 \begin{flushleft}
 \tt
 123 Address\\
 London\\
-\end{flushleft}
+\end{flushleft} -->
 
 <!-- # SELF INTRODUCTION -->
 <!-- The “Intro” Paragraph – Grab the reader’s attention. Introduce yourself, & state why you’re a good fit.  -->

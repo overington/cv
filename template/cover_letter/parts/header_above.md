@@ -1,5 +1,8 @@
+\let\oldnormalfont\normalfont
+\def\normalfont{\oldnormalfont\mdseries}
+
 \begin{minipage}[t]{0.7\textwidth}
-  \Huge \textit{Samuel Overington}
+  \Huge \scshape{Samuel Overington}
 \end{minipage}
 \begin{minipage}[b]{0.3\textwidth}
   \begin{flushright}

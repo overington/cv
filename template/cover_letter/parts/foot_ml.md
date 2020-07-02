@@ -6,7 +6,7 @@
 <!-- I have begun using machine learning techniques in personal projects. One currently that I am working on is a project that will predict outcomes from video input signals, using scikit-learn. -->
 
 
-I have begun using machine learning techniques in personal projects. One currently that I am working on uses scikit-learn to predict housing prices based on location, and other relevant data-points.
+<!-- I have begun using machine learning techniques in personal projects. One currently that I am working on uses scikit-learn to predict housing prices based on location, and other relevant data-points. -->
 
 
 <!-- I am also interested in game engines as a framework for pushing machine learning, deep neural networks and AI - for example DeepMind's AlphaGo, and more recent AlphaStar.  I think that deep learning engines will revolutionise how we process todays data-heavy research. -->
