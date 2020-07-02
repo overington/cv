@@ -12,7 +12,7 @@ header-includes:
   - \usepackage{fontawesome}
   - \usepackage{CormorantGaramond}  
   - \usepackage[T1]{fontenc}
-  
+
 ---
 
 @import "/template/CV/parts/objective.md"

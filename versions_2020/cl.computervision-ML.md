@@ -28,4 +28,5 @@ I have a diverse history of experience with a background in Photography where I 
 @import "/template/cover_letter/parts/base_freelance.md"
 @import "/template/cover_letter/parts/base_research_ed_comvis.md"
 
+\vspace{.8cm}
 @import "/template/cover_letter/parts/foot_ml.md"
