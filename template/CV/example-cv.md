@@ -6,8 +6,8 @@ geometry: left=2.5cm, top=1.5cm, right=2.5cm
 output:
   pdf_document:
     includes:
-      before_body: template/CV/parts/header.md
-    path: "/output/cv.samueloverington.pdf"
+      before_body: parts/header.md
+    path: "/output/cv.2020.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
@@ -22,5 +22,9 @@ header-includes:
 @import "/template/CV/parts/teaching.md"
  -->
 @import "/template/CV/parts/education.md"
-<!-- Academic references -->
-@import "/template/CV/parts/references.md"
+
+\vspace{1cm}
+
+#### References available on request
+
+<!-- import "/template/CV/parts/references.md" -->

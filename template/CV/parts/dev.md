@@ -1,23 +1,26 @@
 # Software Development
 
 **Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. (Internship)\
-*Machine Learning / Deep learning / Computer Vision*
+*Computer Vision and Machine Learning Engineer*
 
-- Built object detection model for earth observation data, to detect and differentiate between biodiversity types (Python, TensorFlow and Keras).
+- Built object detection model using neural networks for earth observation data, to detect and differentiate between biodiversity types (Python, TensorFlow and Keras).
 - Researched methods of transfer learning in neural networks, and implemented one in a project constrained by a limited labelled dataset; improving training time.
 - Created internal reference documentation for CVAT (Computer Vision Annotation Tool).
 - Collaborated on a poster researching computer vision methods using machine learning, neural networks and transfer learning.
 
+\vspace{.8cm}
 
 **Yobota**, London, Jun -- Sep 2018. (Internship)\
-*Software Development Summer Intern -- Integrations / APIs*
+*Software Engineer / Developer (Python)*
 
 -   Lead Python developer for OpenBanking integration, using Django / DRF
--   Participated in daily stand-up and weekly sprint planning meetings
 -   Delivered team keynote on OpenBanking
 -   Create documentation on "Creating a test driven integration" to work on the Yobota platform
+-   Participated in daily stand-up and weekly sprint planning meetings
 
-**Stillnessinyoga**, Remote, The Netherlands, June 2016 -- 2018\
+\newpage
+
+**Stillnessinyoga**, Remote, The Netherlands, June 2016 -- 2020\
 *Front-end web development / Digital content development*
 
 -   Lead developer for multi-lingual e-comms WordPress site
