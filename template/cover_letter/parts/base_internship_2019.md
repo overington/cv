@@ -11,3 +11,21 @@ I took part in the South-Eastern Physics Network (SEPNet) internship programme, 
 I used python and libraries Keras, TensorFlow, PIL, pandas, and numpy to batch process the labelled images, and then trained the model on them using a dedicated high power GPU server. The trained model could then be used to classify a stream of images on the fly, or be saved for later use further down in the partner pipeline.
 
 I research and implemented the process of transfer learning in neural networks as within the project remit, it was specified that there would be a limited availability of labelled source imagery. This increased the feature extraction accuracy and decreased the training time (when comparing to the same dataset without using transfer learning).
+
+<!--
+South-Eastern Physics Network (SEPNet) internship programme.
+Working with the Earth observation team on the KORE project
+extracts information from satellite / UAV imagery about cropland
+
+My project (I created):
+			- NN / Object detection pipeline
+      - Training images were outlined using CVAT
+			   - Then the outlines and the training image were split into tiles
+				 - where the pipeline that I created would split the training input image into tiles;
+				 - Then each tile was input,
+			- Detect a species of biodiversity within a given image: creating a heatmap
+			§ Python, numpy, PIL (python image lib), TensorFlow, Keras.
+			§ model was trained on images from a variable number of labels; which would retrieved from the customer, and then sent through the pipeline to be categorised.
+			§ Not quite pixel level.
+
+-->
