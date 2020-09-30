@@ -6,12 +6,12 @@ output:
   pdf_document:
     includes:
       before_body: parts/header.md
-    path: "/output/cv.2020.samueloverington.pdf"
+    path: "/output/cv.2020-t.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
-  - \usepackage{CormorantGaramond}  
   - \usepackage[T1]{fontenc}
+  - usepackage{FiraSans,CrimsonPro,CormorantGaramond}
 
 ---
 

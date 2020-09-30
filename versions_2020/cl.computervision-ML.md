@@ -1,4 +1,5 @@
 ---
+fontfamily: crimson
 fontsize: 12pt
 linestretch: 1.13
 geometry: left=2.2cm, top=1.5cm, right=2.2cm

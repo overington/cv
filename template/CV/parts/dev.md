@@ -1,4 +1,4 @@
-# Software Development
+# Work and Internships
 
 **Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. (Internship)\
 *Computer Vision and Machine Learning Engineer*
@@ -8,7 +8,7 @@
 - Created internal reference documentation for CVAT (Computer Vision Annotation Tool).
 - Collaborated on a poster researching computer vision methods using machine learning, neural networks and transfer learning.
 
-\vspace{.8cm}
+\hspace{0.1\textheight plus0.1\textheight }
 
 **Yobota**, London, Jun -- Sep 2018. (Internship)\
 *Software Engineer / Developer (Python)*
@@ -18,7 +18,7 @@
 -   Create documentation on "Creating a test driven integration" to work on the Yobota platform
 -   Participated in daily stand-up and weekly sprint planning meetings
 
-\newpage
+\hspace{0.1\textheight plus0.1\textheight }
 
 **Stillnessinyoga**, Remote, The Netherlands, June 2016 -- 2020\
 *Front-end web development / Digital content development*
