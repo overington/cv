@@ -1,3 +1,7 @@
-### Skills
+# Skills
 
-Python, C++, C#, TensorFlow, Machine Learning, Deep Learning, Django, DRF, Flask, Docker, Bash, Zsh, JavaScript, HTML, CSS, SASS, Vim, Git, PHP, WordPress, Jupyter, NumPy, SciPy, Matplotlib, LaTeX, Linux, macOS, algorithms
+__Languages__: Python, C++, C#, JavaScript, PHP
+
+__ML / AI Tools__: Machine learning, deep learning, TensorFlow, Keras, OpenCV, algorithms, linear algebra
+
+__Tools__: Bash, Git, PyTest, Pandas, Django, Flask, Docker, LaTeX, Linux, macOS
