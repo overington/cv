@@ -1,16 +1,16 @@
 ---
-fontsize: 12pt
+fontsize: 11pt
 linestretch: 1.13
 geometry: left=2.2cm, top=1.5cm, right=2.2cm
 output:
   pdf_document:
     includes:
       before_body: parts/header_above.md
-    path: "./cover_letter.samueloverington.pdf"
+    path: "/output/cl.samueloverington.pdf"
     toc: false
 header-includes:
   - \usepackage{fontawesome}
-  - \usepackage{CormorantGaramond}  
+  - \usepackage[sfdefault]{FiraSans}
   - \usepackage[T1]{fontenc}
 
 ---
