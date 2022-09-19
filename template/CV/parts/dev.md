@@ -1,12 +1,10 @@
 # Experience
 
 ### **Expedia**, London UK, Feb 2022.\
-*Machine Learning Engineer* (Meta Marketing Technology Team) Cross-functional team supporting and maintaining a software platform running on AWS
+*Machine Learning Engineer* (Growth Marketing & Technology - meta-bidding team) Cross-functional team maintaining & growing big data platform running pipelines for ML predictions & business intelligence on AWS infrastructure
 
-  - The platform is built using Airflow, Hive, Python and runs on AWS EMR instances, with Jenkins pipelines for model training and deployment, and DataBricks
-  <!-- - Deliver full life-cycle of ML models and data pipelines, productionizing them from a PoC model developed by our ML scientists, to training and QA -->
-  - Platform triage support for users located in many time-zones
-  - Lead MLE in project migrating legacy project w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements
+  - Lead ML engineer architecting and implementing centralised QA asset, unifying several hand crafted functions performing same algorithm on different different platforms.  This was also used as PoC for building out a unified meta-function store, and as the first step in breaking apart our monolithic platform application into modular form
+  - Lead MLE in project migrating legacy code w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements
 
 ### **Arm**, Cambridge UK, November 2020 -- Jan 2022.\
 *Software Engineer, Machine Learning Group* (Graduate programme)

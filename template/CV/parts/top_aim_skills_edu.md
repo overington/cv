@@ -1,13 +1,14 @@
 \begin{multicols}{2}
 [
-I am a passionate CV and ML research engineer with experience creating static and dynamic image recognition DL models and model optimisation techniques. I am searching for opportunities to join an R\&D team solving tasks and innovating in this area as well as wider contexts.
+I am a passionate CV / ML research engineer with experience creating static and dynamic image recognition models, including dynamic hand gesture recognition. I am searching for opportunities to join an R\&D team to help find solutions and innovate within the field.
 ]
+<!-- and implementing model optimisation techniques -->
 
 \hypertarget{skills}{%
 \section{Skills}\label{skills}}
 
 <!-- import "skills.md" -->
-\textbf{Languages}: Python, C++, C\#, JavaScript, SQL, PHP
+\textbf{Languages}: Python, JS / nodeJS, C++, C\#, SQL, R
 
 \textbf{ML / AI Tools}: Machine learning, deep learning, PyTorch,
 TensorFlow, Keras, OpenCV, linear algebra
