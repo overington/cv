@@ -4,7 +4,7 @@ date: |
       \begin{tabular}{rl}
         \faicon{mail-reply} & s.c.overington@gmail.com \\
         \faicon{linkedin} & linkedin.com/in/scoverington/ \\
-        \faicon{github} & github.com/oh-/ \\
+        \faicon{github} & github.com/overington/ \\
         \faicon{mobile} & 07939949766 \\ \\
       \end{tabular}
 geometry: left=1.5cm, top=2cm, right=1.5cm

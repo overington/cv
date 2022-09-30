@@ -1,7 +1,7 @@
 # Experience
 
 ### **Expedia**, London UK, Feb 2022.\
-*Machine Learning Engineer* (Growth Marketing & Technology - meta-bidding team) Cross-functional team maintaining & growing big data platform running pipelines for ML predictions & business intelligence on AWS infrastructure
+*Machine Learning Engineer* (Growth Marketing & Technology - meta-bidding team) Cross-functional team maintaining & growing big data platform running ML prediction pipelines for meta bidding & business intelligence on AWS infrastructure
 
   - Lead ML engineer architecting and implementing centralised QA asset, unifying several hand crafted functions performing same algorithm on different different platforms.  This was also used as PoC for building out a unified meta-function store, and as the first step in breaking apart our monolithic platform application into modular form
   - Lead MLE in project migrating legacy code w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements

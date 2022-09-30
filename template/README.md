@@ -5,7 +5,7 @@
   -- ---------------------------
      s.c.overington\@gmail.com
      samueloverington.com
-     github.com/oh-
+     github.com/overington
   -- ---------------------------
 
 ### Objective

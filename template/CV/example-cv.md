@@ -24,7 +24,7 @@ header-includes:
     \begin{tabular}{rl}
       \faicon{mail-reply} & s.c.overington@gmail.com \\
       \faicon{flash} & samueloverington.com \\
-      \faicon{github} & github.com/oh-/ \\
+      \faicon{github} & github.com/overington/ \\
       \faicon{linkedin} & linkedin.com/in/scoverington/ \\
     \end{tabular}
   \end{flushright}

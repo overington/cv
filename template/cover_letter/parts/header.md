@@ -6,6 +6,6 @@
 \begin{tabular}{rl}
   \faicon{mail-reply} & s.c.overington@gmail.com \\
   \faicon{flash} & samueloverington.com \\
-  \faicon{github} & github.com/oh- \\
+  \faicon{github} & github.com/overington \\
 \end{tabular}
 \end{flushright}

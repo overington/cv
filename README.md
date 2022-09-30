@@ -6,7 +6,7 @@
   -- ---------------------------
      s.c.overington\@gmail.com
      samueloverington.com
-     github.com/oh-
+     github.com/overington
   -- ---------------------------
 
 I am a passionate CV and ML research engineer with experience creating static and dynamic image recognition DL models and model optimisation techniques. I am searching for opportunities to join an R&D team solving tasks and innovating in this area as well as wider contexts.

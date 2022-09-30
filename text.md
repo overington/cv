@@ -4,7 +4,7 @@ date: |
       \begin{tabular}{rl}
         \faicon{mail-reply} & s.c.overington@gmail.com \\
         \faicon{flash} & samueloverington.com \\
-        \faicon{github} & github.com/oh-/ \\ \\
+        \faicon{github} & github.com/overington/ \\ \\
       \end{tabular}
 geometry: left=1.5cm, top=2.5cm, right=1.5cm
 output:
