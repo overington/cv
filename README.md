@@ -1,100 +1,145 @@
-*Samuel Overington*
-===================
-
-------------------------------------------------------------------------
-
-  -- ---------------------------
-     s.c.overington\@gmail.com
-     samueloverington.com
-     github.com/overington
-  -- ---------------------------
-
-I am a passionate CV and ML research engineer with experience creating static and dynamic image recognition DL models and model optimisation techniques. I am searching for opportunities to join an R&D team solving tasks and innovating in this area as well as wider contexts.
+::: multicols
+2 \[ I am a passionate CV / ML research engineer with experience
+creating static and dynamic image recognition models, including dynamic
+hand gesture recognition. I am searching for opportunities to join an
+R&D team to help find solutions and innovate within the field. \]
 
 # Skills
 
-__Languages__: Python, C++, C#, JavaScript, SQL, PHP
+**Languages**: Python, C++, C#, TypeScript, SQL, Bash, HTML, LaTeX
 
-__ML / AI Tools__: Machine learning, deep learning, PyTorch, TensorFlow, Keras, OpenCV, linear algebra
+**ML / AI Tools**: PyTorch, TensorFlow, Keras, image processing, OpenCV,
+segmentation, object detection, transfer learning
 
-__Tools__: Bash, Git, PyTest, Pandas, Django, Flask, Docker, LaTeX, Linux, macOS, AWS, PySpark, Hive, Jupyter Lab, DataBricks
+**Tools**: Git, CLI scripting, Python packaging, Jenkins, Github
+Actions, PyTest, Pandas, Django, Flask, Docker, Linux, macOS, systemd
 
 # Education
 
-2017 -- 2020: **Bsc Physics** (2:1) \
+2017 -- 2020: **Bsc Physics** (2:1)\
 *Queen Mary University of London*, London, UK
 
-2016 -- 2017: **Access to Science Dimploma** (Distinction) *Tower Hamlets College*, London, UK
+2016 -- 2017: **Access to Science Dimploma** (Distinction) *Tower
+Hamlets College*, London, UK
 
 2003 -- 2007: **Bachelor of Fine Arts (Photography)**\
 *Victorian College of the Arts*, Melbourne, Australia
+:::
 
 # Experience
 
-### **Expedia**, London UK, Feb 2022.\
-*Machine Learning Engineer* (Meta Marketing Technology Team) Cross-functional team supporting and maintaining a software platform running on AWS
+## Dimension Studio, London UK, Nov 2023 -- Present. 
 
-  - The platform is built using Airflow, Hive, Python and runs on AWS EMR instances, with Jenkins pipelines for model training and deployment, and DataBricks
-  - Platform triage support for users located in many time-zones
-  - Lead MLE in project migrating legacy project w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements
+*Software Engineer - Machine Learning and Research*, (Applied Technology
+Team)
 
-### **Arm**, Cambridge UK, November 2020 -- Jan 2022.\
+Applying state-of-the-art machine learning and computer vision research
+to push the boundaries of virtual production. Key projects include:
+
+**Live human matting project for Omega at Paris Olympic Games 2024**:
+Developed and deployed an advanced ML-based pipeline for live audience
+activation. The project enables participants to virtually race alongside
+Olympic athletes in real-time, using machine learning for live footage
+segmentation and alpha-matting. The pipeline integrates:
+
+-   Pre-processing stage for frame alignment using keyframe finding
+    algorithms and timecodes.
+
+-   Deep learning-based encoder-decoder architecture for generating
+    alpha-matte layers.
+
+-   Post-processing for seamless integration of live participants into
+    pre-rendered virtual backgrounds, resulting in immersive and
+    shareable experiences.
+
+**Semantic Segmentation and Matting Pipeline for Virtual Production**:
+Leading the development of an automated segmentation workflow that
+generates high-quality alpha mattes from raw footage for virtual
+production. Key achievements:
+
+-   Leveraged vision-language models such as BLIP2 and GroundingDINO for
+    object detection and text-to-object prompting.
+
+-   Integrated zero-shot text-to-mask segmentation methods and refined
+    outputs using generative AI models to create precise,
+    production-ready alpha mattes.
+
+-   Optimised the output for compositing tools like Nuke and Resolve by
+    creating Cryptomatte files, streamlining the post-production
+    process.
+
+## **Expedia**, London UK, Feb 2022 -- Nov 2023. 
+
+*Machine Learning Engineer* (Growth Marketing & Technology -
+meta-bidding team) Cross-functional team maintaining & growing big data
+platform running ML prediction pipelines for meta bidding & business
+intelligence on AWS infrastructure. I was MLE on several key projects,
+including:
+
+-   Architecting and implementing centralised QA asset, unifying several
+    handcrafted functions performing same algorithm on different
+    platforms. This was also used as PoC for building out a unified
+    meta-function store, and as the first step in breaking apart our
+    monolithic platform application into modular form
+
+-   Migrating legacy code w/ linear process into AirFlow DAGs, enabling
+    step tables, concurrent processing, and code quality improvements
+
+## **Arm**, Cambridge UK, November 2020 -- Jan 2022. 
+
 *Software Engineer, Machine Learning Group* (Graduate programme)
 
-Taking part in the graduate rotation programme exposed me to a variety of different projects and teams within the machine learning group at arm:
+I took part in the arm graduate rotation programme, which exposed me to
+a variety of different projects and teams within the machine learning
+group. I chose specific teams and projects to work on to develop my
+skills in machine learning, computer vision and embedded systems.
 
-- __ML Research team, *Bayesian DeepLearning for CV*__: (2 months) Lead researcher, exploring and implementing Bayesian DeepLearning models for pixel level image segmentation, and optimising for Arm hardware:
+-   **ML Research team, *Bayesian DeepLearning for CV***: (2 months)
+    Lead researcher, exploring and implementing Bayesian DeepLearning
+    models for pixel level image segmentation, and optimising for Arm
+    hardware IP.
 
-  - Explore model architectural changes for performance optimisations
-  - Based on DeepLabV3 architecture
-  - Deep dive into Bayesian DeepLearning methods with a model implementations for pixel segmentation.
-  - Model implemented using Keras and TensorFlow
+    -   Explore model architectural changes for performance
+        optimisations of DeepLabV3
 
-- __Applied ML team, *Dynamic hand gesture recognition, and visual wake words*__ (8 months): An ML model for static and dynamic gesture recognition, aimed at low power / IOT / embedded processors
+    -   Deep dive into Bayesian DeepLearning methods with a model
+        implementations for pixel segmentation.
 
-  - Lead researcher exploring SOA techniques for dynamic gesture inputs
-  - Research and read papers on novel CV ML model architectures and datasets
-  - Create data generator pipeline using OpenCV for large video dataset
-  - Implement novel architecture aimed at low power processors
-  - Report metrics for comparing model accuracy, peak memory usage, FLOPS on base model to compare on a variety of arm hardware IP, and showed changes after model quantisation and other optimisations
+-   **Applied ML team, *Dynamic hand gesture recognition, and visual
+    wake words*** (8 months): Lead research engineer conducting a
+    literature review of models and datasets, training and optimizing a
+    video understanding model for gesture recognition, and implementing
+    a data generator pipeline using OpenCV for large video datasets.
+    applying state-of-the-art techniques to enhance performance on
+    low-power, IoT, and embedded processors Arm IP.
 
+<!-- -->
 
-- __ML Tooling Team, *IPSS-ML (IP Selection Sandbox for ML applications)*__ (4 months): a middle-ware application to simulate and test ML applications on accelerated (NPU) and regular (M/A class processors) Arm IP using fast- and cycle-models.
-  - Increase test coverage to all lines of code, adding niche test cases
-  - Bring codebase to be completely error and warning free by implement Pylint into CI environment
-  - Bug fix front end web app
-  - Deliver presentation on methods used to implement Pylint into a live codebase, and Jenkins CI build process with Gerrit
+-   **ML Tooling Team, *IPSS-ML (IP Selection Sandbox for ML
+    applications)*** (4 months): Part of the team developing a
+    middle-ware application to simulate and test ML applications on
+    accelerated (NPU) and regular (M/A class processors) Arm IP using
+    fast- and cycle-models.
 
-### **Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. (Internship)\
-*Computer Vision and Machine Learning research intern*
+**Deimos Space UK**, Harwell, Oxfordshire, July -- Sept 2019. *Computer
+Vision and Machine Learning research intern* - Built object detection
+model using neural networks for earth observation data, to detect and
+differentiate between biodiversity types (Python, TensorFlow and Keras)
 
-- Built object detection model using neural networks for earth observation data, to detect and differentiate between biodiversity types (Python, TensorFlow and Keras)
-- Researched methods of transfer learning in neural networks, and implemented one in a project constrained by a limited labelled dataset; improving training time
-- Created internal reference documentation for CVAT (Computer Vision Annotation Tool)
-- Collaborated on a poster researching computer vision methods using machine learning, neural networks and transfer learning
+**Yobota**, London, Jun -- Sep 2018. *Software Engineer intern* -
+Developed PoC integration API for OpenBanking using Django / DRF / Oauth
+2.0
 
+::: multicols
+2
 
-### **Yobota**, London, Jun -- Sep 2018. (Internship)\
-*Software Engineer intern*
+# Selected freelance
 
-- Developed integration API for OpenBanking using Django / DRF / Oauth 2.0
-- Implemented unit tests using pytest and integrated with continuous integration tool (Jenkins)s
-- Delivered team keynote on OpenBanking
-- Create documentation on "Creating a test driven integration" to work on the Yobota platform
-- Participated in daily stand-up and weekly sprint planning meetings
+June 2016 -- 2020: **Stillnessinyoga**, Remote, The Netherlands - *Web
+developer / Digital content development*
 
-
-## *(Selected freelance)*
-
-- June 2016 -- 2020: **Stillnessinyoga**, Remote, The Netherlands\
-*Web developer / Digital content development*
-  -   Lead developer for multi-lingual e-commerce WordPress platform
-  -   Built and maintained website using the Genesis theme framework featuring an events calendar, e-commerce platform, content restricted membership subscriptions, and membership e-learning course and system
-  -   developed a custom secure Amazon S3 media serving platform
-  -   Worked along side head teachers to design and put together three teacher training manuals (Level 1, 2, & Advanced 2) -- in iBook format -- an interactive e-publishing book format
-
--   2016: **Ecostage Pledge**. *Web developer.* Designed and coded the website for a community of artists and designers. Features include a membership which integrating BBPress user interaction features
--   2015: **Giddy Diva**. *WordPress theme developer*. Migrated a static site to WordPress, Built out theme, integrated client testimonials.
--   2013 -- 2015: **LVSC**. *Web developer.* Several projects including VCS Assist, London For All. Designed and coded the community website for publishing a blog and news articles. Later created a business directory, for users to publicise their projects
--   2012: **London for All**. *Web developer.* Designed and coded the community news site
--   2012: **MIAGOA**. *WordPress theme developer.* Developed site from a photoshop image design template.
+2013 -- 2015: **LVSC**, London - *Web developer* Several projects
+including VCS Assist, London For All. Designed and coded the community
+website for publishing a blog and news articles. Later created a
+business directory, for users to publicise their projects
+:::

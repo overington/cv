@@ -1,0 +1,22 @@
+---
+author: [Samuel Overington]
+header-left: "\\huge \\scshape{\\theauthor}"
+header-center: "\\hspace{1cm}"
+header-right: |
+  \href{mailto://s.c.overington@gmail.com}{s.c.overington@gmail.com \faicon{mail-reply}}
+
+  07939949766 \faicon{mobile}
+footer-left: "\\theauthor"
+footer-center: "\\hspace{1cm}"
+footer-right: |
+    \href{https://linkedin.com/in/scoverington}{\faicon{linkedin} scoverington}
+    \href{https://overington.github.io/}{\faicon{github} overington}
+geometry: left=1.5cm, right=1.5cm, top=2.5cm, bottom=2.5cm
+header-includes:
+  - \usepackage{fontawesome}
+  - \usepackage{tikz}
+  - \usepackage{multicol}
+  - \setlength{\columnsep}{1cm}
+  - \setlength{\columnseprule}{1pt}
+---
+\pagenumbering{gobble}
