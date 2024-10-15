@@ -62,10 +62,10 @@ I took part in the arm graduate rotation programme, which exposed me to a variet
 - __ML Research team, *Bayesian DeepLearning for CV*__: (2 months) Lead researcher, exploring and implementing Bayesian DeepLearning models for pixel level image segmentation, and optimising for Arm hardware IP.
 
   - Explore model architectural changes for performance optimisations of DeepLabV3
-  - Deep dive into Bayesian DeepLearning methods with a model implementations for pixel segmentation.
+  - Deep dive into Bayesian DeepLearning methods with a model implementation for pixel segmentation.
 
 - __Applied ML team, *Dynamic hand gesture recognition, and visual wake words*__ (8 months): 
-Lead research engineer conducting a literature review of models and datasets, training and optimizing a video understanding model for gesture recognition, and implementing a data generator pipeline using OpenCV for large video datasets. applying state-of-the-art techniques to enhance performance on low-power, IoT, and embedded processors Arm IP.
+Lead research engineer conducting a literature review of models and datasets, training and optimizing a video understanding model for gesture recognition, and implementing a data generator pipeline using OpenCV for large video datasets. Applying state-of-the-art techniques to enhance performance on low-power, IoT, and embedded Arm IP.
 
 <!-- - Lead researcher exploring SOA techniques for dynamic gesture recognition for low power processors -->
 <!-- - Implement novel architecture aimed at low power processors -->

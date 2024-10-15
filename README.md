@@ -103,15 +103,15 @@ skills in machine learning, computer vision and embedded systems.
         optimisations of DeepLabV3
 
     -   Deep dive into Bayesian DeepLearning methods with a model
-        implementations for pixel segmentation.
+        implementation for pixel segmentation.
 
 -   **Applied ML team, *Dynamic hand gesture recognition, and visual
     wake words*** (8 months): Lead research engineer conducting a
     literature review of models and datasets, training and optimizing a
     video understanding model for gesture recognition, and implementing
     a data generator pipeline using OpenCV for large video datasets.
-    applying state-of-the-art techniques to enhance performance on
-    low-power, IoT, and embedded processors Arm IP.
+    Applying state-of-the-art techniques to enhance performance on
+    low-power, IoT, and embedded Arm IP.
 
 <!-- -->
 
