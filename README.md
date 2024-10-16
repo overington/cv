@@ -37,28 +37,27 @@ Applying state-of-the-art machine learning and computer vision research
 to push the boundaries of virtual production. Key projects include:
 
 **Live human matting project for Omega at Paris Olympic Games 2024**:
-Developed and deployed an advanced ML-based pipeline for live audience
-activation. The project enables participants to virtually race alongside
-Olympic athletes in real-time, using machine learning for live footage
-segmentation and alpha-matting. The pipeline integrates:
+Developed and deployed an ML-based pipeline for a live activation with
+300+ captures/renders per day, enabling audience to virtually race
+alongside Olympic athletes, captured by 4 cameras. Using machine
+learning, footage was aligned, segmentated, rendered and uploaded as a
+user shareable video. The pipeline integrates:
 
--   Pre-processing stage for frame alignment using keyframe finding
-    algorithms and timecodes.
+-   Pre- and post-processing functions for precise time alignment for
+    use with camera selection, editing, compositing and rendering.
 
--   Deep learning-based encoder-decoder architecture for generating
-    alpha-matte layers.
+-   ML based compositing function removing background from human in
+    video, with moving background (no green-screen) and compositing them
+    onto pre-rendered virtual backgrounds.
 
--   Post-processing for seamless integration of live participants into
-    pre-rendered virtual backgrounds, resulting in immersive and
-    shareable experiences.
-
-**Semantic Segmentation and Matting Pipeline for Virtual Production**:
+**Semantic segmentation and matting pipeline for virtual production**:
 Leading the development of an automated segmentation workflow that
 generates high-quality alpha mattes from raw footage for virtual
 production. Key achievements:
 
--   Leveraged vision-language models such as BLIP2 and GroundingDINO for
-    object detection and text-to-object prompting.
+-   Leveraged vision-language models such as BLIP2, GroundingDINO and
+    SAM2 for text-to-object prompting, object detection and
+    segmentation.
 
 -   Integrated zero-shot text-to-mask segmentation methods and refined
     outputs using generative AI models to create precise,
@@ -112,8 +111,6 @@ skills in machine learning, computer vision and embedded systems.
     a data generator pipeline using OpenCV for large video datasets.
     Applying state-of-the-art techniques to enhance performance on
     low-power, IoT, and embedded Arm IP.
-
-<!-- -->
 
 -   **ML Tooling Team, *IPSS-ML (IP Selection Sandbox for ML
     applications)*** (4 months): Part of the team developing a
