@@ -1,7 +1,8 @@
 # Experience
 
 ## Dimension Studio, London UK, Nov 2023 -- Present.\
-*Software Engineer - Machine Learning and Research*, (Applied Technology Team)
+*Software Engineer - Machine Learning and Research* (Nov 2023 - Jun 2025)  
+*Senior Software Engineer - Machine Learning and Research* (Jun 2025 - Present)
 
 Applying state-of-the-art machine learning and computer vision research to push the boundaries of virtual production. Key projects include:
 
@@ -10,7 +11,7 @@ __Live human matting project for Omega at Paris Olympic Games 2024__: Developed 
 - Pre- and post-processing functions for precise time alignment for use with camera selection, editing, compositing and rendering.
 - ML based compositing function removing background from human in video, with moving background (no green-screen) and compositing them onto pre-rendered virtual backgrounds.
 
-__Semantic segmentation and matting pipeline for virtual production__: Leading the development of an automated segmentation workflow that generates high-quality alpha mattes from raw footage for virtual production. Key achievements:
+__Semantic segmentation and matting pipeline for virtual production__: Leading the development of an automated segmentation pipeline to generate high-quality alpha mattes from raw footage for virtual production. Key achievements:
 
 - Leveraged vision-language models such as BLIP2, GroundingDINO and SAM2 for text-to-object prompting, object detection and segmentation.
 - Integrated zero-shot text-to-mask segmentation methods and refined outputs using generative AI models to create precise, production-ready alpha mattes.
@@ -25,7 +26,8 @@ __Semantic segmentation and matting pipeline for virtual production__: Leading t
 - Migrating legacy code w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements
 
 ## **Arm**, Cambridge UK, November 2020 -- Jan 2022.\
-*Software Engineer, Machine Learning Group* (Graduate programme)
+*Graduate Engineer* (Nov 2020 - Apr 2021)  
+*Software Engineer, Machine Learning Group* (Apr 2021 - Jan 2022)
 
 I took part in the arm graduate rotation programme, which exposed me to a variety of different projects and teams within the machine learning group. I chose specific teams and projects to work on to develop my skills in machine learning, computer vision and embedded systems.
 
