@@ -29,7 +29,7 @@ __Semantic segmentation and matting pipeline for virtual production__: Leading t
 *Graduate Engineer* (Nov 2020 - Apr 2021)  
 *Software Engineer, Machine Learning Group* (Apr 2021 - Jan 2022)
 
-I took part in the arm graduate rotation programme, which exposed me to a variety of different projects and teams within the machine learning group. I chose specific teams and projects to work on to develop my skills in machine learning, computer vision and embedded systems.
+Participated in Arm's graduate rotation programme, gaining hands-on experience across multiple teams and projects within the machine learning group. Proactively selected rotations to build expertise in machine learning, computer vision, and embedded systems. Promoted to Software Engineer after 8 months in recognition of strong performance.
 
 - __ML Research team, *Bayesian DeepLearning for CV*__: (2 months) Lead researcher, exploring and implementing Bayesian DeepLearning models for pixel level image segmentation, and optimising for Arm hardware IP.
 
