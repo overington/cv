@@ -17,6 +17,13 @@ __Semantic segmentation and matting pipeline for virtual production__: Leading t
 - Integrated zero-shot text-to-mask segmentation methods and refined outputs using generative AI models to create precise, production-ready alpha mattes.
 - Optimised the output for compositing tools like Nuke and Resolve by creating Cryptomatte files, streamlining the post-production process.
 
+__Real-time multi-model spatial perception pipeline in Unreal Engine__: Engineered a high-performance C++ application integrating live video streams with synchronized machine learning models for real-time depth estimation and human segmentation.
+
+- Ported and compiled PyTorch models to ONNX, utilizing TensorRT for hardware-accelerated INT8/FP16 inference optimization within the live execution pipeline.
+- Re-architected a model graph to overcome TensorRT compilation constraints on dynamic hidden states, decoupling the encoder-decoder layers and extracting the feature cache aggregation logic from the PyTorch nn.Module to be managed natively in C++.
+- Designed a zero-copy GPU memory pipeline, ensuring tensors remained entirely in VRAM between depth inference, segmentation steps, and Unreal Engine texture registration to eliminate CPU-GPU serialization bottlenecks.
+- Optimized high-throughput tensor pre- and post-processing routines to run concurrently, aligning inference latency with the engine's main render thread to maintain a stable, real-time frame rate.
+
 \newpage
 
 ## **Expedia**, London UK, Feb 2022 -- Nov 2023.\

@@ -1,0 +1,12 @@
+---
+title: Samuel Overington - Curriculum Vitae
+author: [Samuel Overington]
+header-includes:
+  - \usepackage{fontawesome}
+  - \usepackage{tikz}
+  - \usepackage{multicol}
+  - \setlength{\columnsep}{1cm}
+  - \setlength{\columnseprule}{1pt}
+---
+\pagenumbering{gobble}
+# Samuel Overington - Curriculum Vitae

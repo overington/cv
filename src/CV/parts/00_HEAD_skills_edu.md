@@ -1,23 +1,34 @@
 <!-- [
 I am a passionate CV / ML research engineer with experience creating static and dynamic image recognition models, including dynamic hand gesture recognition. I am searching for opportunities to join an R\&D team to help find solutions and innovate within the field.
 ] -->
-<!-- \textbf{ML / AI}: PyTorch, TensorFlow, OpenCV, Keras, image processing,  object segmentation, object detection, monocular depth estimation, transfer learning -->
-<!-- \textbf{Tools}: Git, CLI scripting, Python packaging, Jenkins, Github Actions, PyTest, Django, Flask, Docker, Terraform, Ansible, Linux, macOS, systemd, React, Next.js -->
 \begin{multicols}{2}
 \footnotesize
 
 \hypertarget{skills}{%
 \section{Skills}\label{skills}}
 
-\textbf{Languages}: Python, C++, JavaScript/TypeScript, SQL, Bash, HTML, \LaTeX
+\textbf{Languages}: Python, C++, JS/TS, SQL, Bash, HTML, \LaTeX
 
-\textbf{ML / AI}: PyTorch, TensorFlow, OpenCV, Keras, image processing, object segmentation, object detection, monocular depth estimation, transfer learning
+\textbf{ML / AI}:
+PyTorch / TensorFlow / ONNX / TensorRT,
+OpenCV, image processing,
+object segmentation / detection / tracking,
+monocular depth estimation,
+model fine-tuning
 
-\textbf{Tools}: Git, CLI scripting, Python packaging, PyTest, Jenkins, GitHub Actions, Django, Flask, Linux, macOS, systemd
+\textbf{Tools}:
+Git,
+Docker,
+CLI scripting,
+Python packaging,
+PyTest,
+Jenkins,
+GitHub Actions,
+Linux, macOS, systemd
 
-\textbf{Cloud / DevOps}: AWS, GCP, Docker, Terraform, Ansible
+\textbf{Cloud / DevOps}: AWS, GCP, Terraform, Ansible
 
-\textbf{Web}: React, Next.js
+\textbf{Web}: React, Next.js, FastAPI, Flask
 
 \columnbreak
 

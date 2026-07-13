@@ -1,4 +1,4 @@
-### 🔵 **1. Real-Time ML Pipeline for Live Activation – Paris Olympics (Omega Pavilion, Parc de Bercy)**
+# Real-Time ML Pipeline for Live Activation – Paris Olympics (Omega Pavilion, Parc de Bercy)**
 
 **Summary:** Led end-to-end development of a real-time matting and segmentation ML pipeline for an interactive installation where visitors raced against a virtual Olympic athlete on an LED wall.
 **Interview Notes:**
@@ -12,7 +12,7 @@
 
 ---
 
-### 🔵 **2. ML-Based Segmentation and Matting Pipeline for Virtual Production**
+# ML-Based Segmentation and Matting Pipeline for Virtual Production**
 
 **Summary:** Built a general-purpose video segmentation pipeline that outputs Cryptomatte EXR layers with semantic object labels, useful for first-pass rotoscoping in VFX.
 **Interview Notes:**
@@ -24,7 +24,7 @@
 
 ---
 
-### 🟢 **3. DepthCraftor Integration – Monocular Depth Estimation Pipeline**
+# DepthCraftor Integration – Monocular Depth Estimation Pipeline**
 
 **Summary:** Integrated and optimised the DepthCraftor model for monocular depth estimation in a video pipeline aimed at 3D-aware compositing and virtual production.
 **Interview Notes:**
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ **6. Cryptomatte EXR Writing Pipeline (Tooling Project)**
+# Cryptomatte EXR Writing Pipeline (Tooling Project)**
 
 **Summary:** Developed a writer for Cryptomatte EXR files that creates per-frame semantic layers, object ID hashes, and manifests from segmentation outputs.
 **Interview Notes:**
