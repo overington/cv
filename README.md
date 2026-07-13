@@ -1,5 +1,9 @@
 # Samuel Overington - Curriculum Vitae
 
+**Dimension Studio, London UK** (Nov 2023 -- Present)
+
+*Senior Software Engineer - Machine Learning and Research (Jun 2025) -- Present Software Engineer - Machine Learning and Research*
+
 Developing and optimising production-ready machine learning and computer vision pipelines based on state-of-the-art research to power live experiences and virtual production.
 
 **Live human matting project for Omega at Paris Olympic Games 2024** *\[Pytorch, OpenCV, Matting\]*
@@ -28,26 +32,21 @@ Leading the development of an automated segmentation pipeline to generate high-q
 - Integrated zero-shot text-to-mask segmentation methods and refined outputs using generative AI models to create precise, production-ready alpha mattes.
 - Optimised the output for compositing tools like Nuke and Resolve by creating Cryptomatte files, streamlining the post-production process.
 
-Architected and scaled data infrastructure for training, deploying, and running high-throughput machine learning prediction pipelines on AWS for meta-bidding and business intelligence. <!--
-I was MLE on several key projects, including:
+**Expedia, London UK** (Feb 2022 -- Nov 2023)
 
-- Architecting and implementing centralised QA asset, unifying several handcrafted functions performing same algorithm on different platforms.  This was also used as PoC for building out a unified meta-function store, and as the first step in breaking apart our monolithic platform application into modular form
-- Migrating legacy code w/ linear process into AirFlow DAGs, enabling step tables, concurrent processing, and code quality improvements
--->
+*Machine Learning Engineer - Growth Marketing & Technology (meta-bidding team)*
 
-<!-- ## **Arm**, Cambridge UK, November 2020 -- Jan 2022.\
-*Graduate Engineer* (Nov 2020 - Apr 2021)  
-*Software Engineer, Machine Learning Group* (Apr 2021 - Jan 2022) -->
+Architected and scaled data infrastructure for training, deploying, and running high-throughput machine learning prediction pipelines on AWS for meta-bidding and business intelligence.
+
+**Arm, Cambridge UK** (Nov 2020 -- Jan 2022)
+
+*Software Engineer (April 2021) Graduate Engineer*
 
 Participated in Arm’s graduate rotation programme, gaining hands-on experience across multiple teams and projects within the machine learning group. Proactively selected rotations to build expertise in machine learning, computer vision, and embedded systems.
 
 - **ML Research team, *Bayesian DeepLearning for CV*** (2 months): Led research and implementation of Bayesian models for pixel-level image segmentation, including DeepLabV3 optimisations for Arm hardware.
 - **Applied ML team, *Dynamic hand gesture recognition, and visual wake words*** (8 months): Lead research engineer conducting a literature review of models and datasets, training and optimising a video understanding model for gesture recognition, and implementing a data generator pipeline using OpenCV for large video datasets. Applying state-of-the-art techniques to enhance performance on low-power, IoT, and embedded Arm IP.
 - **ML Tooling Team, *IPSS-ML (IP Selection Sandbox for ML applications)*** (4 months): Part of the team developing a middle-ware application to simulate and test ML applications on accelerated (NPU) and regular (M/A class processors) Arm IP using fast- and cycle-models.
-
-<!-- - Developed PoC integration API for OpenBanking using Django / DRF / Oauth 2.0 -->
-
-<!-- - Built object detection model using neural networks for earth observation data, to detect and differentiate between biodiversity types (Python, TensorFlow and Keras) -->
 
 **Internships**:
 
@@ -57,4 +56,4 @@ Participated in Arm’s graduate rotation programme, gaining hands-on experience
 **Selected freelance**:
 
 - *Stillnessinyoga*, Remote, The Netherlands Web developer / Digital content development (June 2016 – 2020).
-- *LVSC*, Web Developer (2013 – 2015) <!-- 2013 -- 2015: \textbf{LVSC}, London - \emph{Web developer} Several projects including VCS Assist, London For All. Designed and coded the community website for publishing a blog and news articles. Later created a business directory, for users to publicise their projects -->
+- *LVSC*, Web Developer (2013 – 2015)

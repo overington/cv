@@ -28,5 +28,5 @@ cv: $(CV_INPUTS)
 # update the README.md file with the latest CV
 readme: $(README_INPUTS)
 	mkdir -p output
-	$(PANDOC) -o output/README.md $(PANDOC_README_FLAGS) $^
+	$(PANDOC) -o README.md $(PANDOC_README_FLAGS) $^
 	echo "README.md generated successfully."
